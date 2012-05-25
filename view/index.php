@@ -11,6 +11,7 @@ function hello($name){
 
 echo hello('Hithub!');
 
+addition in master branch
 
 test
 ?>
