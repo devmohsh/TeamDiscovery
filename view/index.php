@@ -4,5 +4,10 @@
  * and open the template in the editor.
  */
 
-echo "Hello Github!";
+function hello($name){
+  return "Hello $name";
+}
+
+
+echo hello('Hithub!');
 ?>
